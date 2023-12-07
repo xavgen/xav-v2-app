@@ -107,9 +107,11 @@ export default function About() {
           </ul>
         </div>
         <Image
-          src="./me_2.jpg"
+          src="/me_2.jpg"
           alt="Description of image"
           className="w-1/4 items-start object-cover m-20 rounded-3xl"
+          width={1000}
+          height={500}
         />
       </div>
     </main>

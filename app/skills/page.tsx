@@ -48,9 +48,11 @@ export default function About() {
         </div>
         <div className="w-1/4 m-16 items-center">
           <Image
-            src="./art_1.png"
+            src="/art_1.png"
             alt="Description of image"
             className="object-cover rounded-3xl"
+            width={1000}
+            height={500}
           />
           <br></br>
           <Link
