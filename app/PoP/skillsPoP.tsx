@@ -51,9 +51,11 @@ export default function SkillsPoP() {
             </Link>
           </div>
           <Image
-            src="./my_art_1.png"
+            src="/my_art_1.png"
             alt="TIMMY"
             className="w-1/3 items-center object-cover m-20 rounded-3xl"
+            width={1000}
+            height={500}
           />
         </div>
       </section>

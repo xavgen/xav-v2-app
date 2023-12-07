@@ -55,9 +55,11 @@ export default function AbtPoP() {
             </Link>
           </div>
           <Image
-            src="./me_1.jpg"
+            src="/me_1.jpg"
             alt="Description of image"
             className="w-1/4 items-center object-cover m-20 rounded-3xl"
+            width={1000}
+            height={500}
           />
         </div>
       </section>

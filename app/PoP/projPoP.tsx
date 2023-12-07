@@ -14,9 +14,11 @@ export default function ProjPoP() {
           }}
         >
           <Image
-            src="./capt_Timmy.jpg"
+            src="/capt_Timmy.jpg"
             alt="TIMMY"
             className="w-1/3 items-center object-cover m-20 rounded-3xl"
+            width={1000}
+            height={500}
           />
           <div className="text-2xl text-left pt-8 rounded-3xl">
             <span className="text-gray-400">Projects</span>

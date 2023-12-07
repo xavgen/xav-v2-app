@@ -14,9 +14,11 @@ export default function InvPoP() {
           }}
         >
           <Image
-            src="./fsa_1.jpg"
+            src="/fsa_1.jpg"
             alt="TIMMY"
             className="w-1/3 items-center object-cover m-20 rounded-3xl"
+            width={1000}
+            height={500}
           />
           <div className="text-2xl text-left pt-8 rounded-3xl">
             <span className="text-gray-400">Involvements</span>
