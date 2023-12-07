@@ -20,7 +20,7 @@ const info: Data[] = [
     status: "Member (2022-2024) | Halo-Halo Committee (2023)",
     description:
       "Participated in cultural events and community service. Was part of the graphic and decorations team as well as a dancer for the annual Halo-Halo Event that features a mix of cultural and modern dances of the Philippines and around the world.",
-    image: "/fsa_1.jpg",
+    image: "/fsaLogo.png",
     link: "",
   },
   {
@@ -28,7 +28,7 @@ const info: Data[] = [
     status: "Robins Air Force Base 402 SWEG | Intern (Summers 2022-2024)",
     description:
       "Worked as a software engineering intern for the Robins Air Force Base. Created a runway validity application and a Raspberry Pi smart car (see more in Projects). Projected to work on web development in a more professional setting in the upcoming 2024 summer.",
-    image: "/fsa_1.jpg",
+    image: "/sweg.jpg",
     link: "",
   },
   {
@@ -36,7 +36,7 @@ const info: Data[] = [
     status: "Member (2023-2024)",
     description:
       "Helped in the creation of two games so far: From Nava and BonBon. Collaborated with programming, music, design, and writer teams spanning 30+ team members.",
-    image: "/fsa_1.jpg",
+    image: "/vgdev.jpg",
     link: "",
   },
   {
@@ -44,7 +44,7 @@ const info: Data[] = [
     status: "Member (2022)",
     description:
       "Performed as a flute player of the Georgia Tech Marching Band, one of the premier marching bands in the state of Georgia",
-    image: "/fsa_1.jpg",
+    image: "/mb.jpg",
     link: "",
   },
 ];
