@@ -17,7 +17,7 @@ export default function AbtPoP() {
             <span className="text-gray-400">About</span>
 
             <p className="font-extrabold w-full text-4xl text-left p-5 pl-3 rounded-3xl">
-              Hello, I'm&nbsp;
+              Hello, I&apos;m&nbsp;
               <span className="text-4xl text-left p-5 pl-1 rounded-3xl jump text-purple-400">
                 Xavier Genio
               </span>

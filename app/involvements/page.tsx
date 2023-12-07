@@ -69,7 +69,7 @@ export default function Projects() {
       >
         <div>
           <p className="text-gray-400 pl-10 text-2xl text-left pt-10 rounded-3xl w-full">
-            What I've been a part of
+            What I&apos;ve been a part of
           </p>
 
           <p className="text-left text-7xl font-bold p-5 rounded-3xl w-full pl-10">
