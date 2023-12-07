@@ -26,9 +26,10 @@ export default function About() {
           <span className="text-gray-400">Who am I?</span>
 
           <p className="text-5xl text-left p-5 pl-1 rounded-3xl w-full ">
-            I'm a <span className="text-purple-400 ripple">web designer</span>{" "}
-            and <span className="ripple text-purple-400">developer</span> based
-            in Atlanta, GA.
+            I&apos;m a{" "}
+            <span className="text-purple-400 ripple">web designer</span> and{" "}
+            <span className="ripple text-purple-400">developer</span> based in
+            Atlanta, GA.
           </p>
 
           <br></br>

@@ -25,7 +25,7 @@ export default function AbtPoP() {
             </p>
             <br></br>
             <p className="text-4xl text-left p-5 pl-1 rounded-3xl w-full">
-              I'm a web designer and developer based in Atlanta, GA.
+              I&apos;m a web designer and developer based in Atlanta, GA.
             </p>
 
             <Link

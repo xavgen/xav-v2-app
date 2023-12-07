@@ -22,7 +22,7 @@ export default function ProjPoP() {
             <span className="text-gray-400">Projects</span>
 
             <p className="text-4xl text-left p-5 pl-1 rounded-3xl w-full font-extrabold">
-              I've worked on a few projects so far...
+              I&apos;ve worked on a few projects so far...
             </p>
             <br></br>
             <p className="text-3xl text-left p-5 pl-1 rounded-3xl w-full">
