@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function AbtPoP() {
   return (
@@ -53,7 +54,7 @@ export default function AbtPoP() {
               </span>
             </Link>
           </div>
-          <img
+          <Image
             src="./me_1.jpg"
             alt="Description of image"
             className="w-1/4 items-center object-cover m-20 rounded-3xl"
